@@ -49,13 +49,13 @@ Fluxo de baixa com contas a pagar no dia e contas já pagas. Fácil visualizaç�
 
 ### Controle financeiro e de investimentos (pessoal)
 
-Quem nunca usou planilhas para controlar os gastos e investimentos ? a diferença é que dessa vez utilizei API's para pegar cotações de valor de ativos de mercado (EX: Coingecko e TradeView) no meu portfólio de investimentos. Ou seja, dá para dizer exatamente o valor dos meus ativos no mercado atual sem precisar ficar calculando toda hora. 
+Quem nunca usou planilhas para controlar os gastos e investimentos? a diferença é que dessa vez utilizei API's para pegar cotações de valor de ativos de mercado (EX: Coingecko e TradeView) no meu portfólio de investimentos. Ou seja, dá para dizer exatamente o valor dos meus ativos no mercado atual sem precisar ficar calculando toda hora. 
 
 ![exemplo-3](assets/img/exemplo-3.png)
 
 ![exemplo-4](assets/img/exemplo-4.png)
 
->⬇️ [baixa aqui ](assets/xls/exemplo.xlsx) um arquivo de exemplo com api's públicas. Bancos de dados públicos são mais difíceis de acessar, sugiro instalar um banco local com um exemplo (como [AdventureWorks](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)) ou usar um serviço online (como [Azure](https://azure.microsoft.com/en-us/products/azure-sql/database/https://azure.microsoft.com/en-us/products/azure-sql/database/), [Aws](https://aws.amazon.com/) ou [Oracle Cloud](https://www.oracle.com/cloud/)) para testar a conexão com banco de dados.
+>⬇️ [baixe aqui ](assets/xls/exemplo.xlsx) um arquivo de exemplo com api's públicas. Bancos de dados públicos são mais difíceis de acessar, sugiro instalar um banco local com um exemplo (como [AdventureWorks](https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms)) ou usar um serviço online (como [Azure](https://azure.microsoft.com/en-us/products/azure-sql/database/https://azure.microsoft.com/en-us/products/azure-sql/database/), [Aws](https://aws.amazon.com/) ou [Oracle Cloud](https://www.oracle.com/cloud/)) para testar a conexão com banco de dados.
 
 ## ⚜ O Diferencial 
 No geral, essas conexões fazem o excel uma plataforma mais voltada para análise do que somente de registro. Sim, o excel não é a melhor plataforma de análise porém é simples o suficiente para proporcionar soluções rápidas e de baixo custo (tanto em treinamento humano e capital). 
