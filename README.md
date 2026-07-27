@@ -20,7 +20,7 @@ Aqui vou destacar duas fontes de dados fenomenais que vão abrir várias possibi
 - `API's (Da Web)`: Informações prontas para serem consumidas da internet. Não são tão flexíveis como os bancos de dados mas podem passar dados pontuais instantâneos e atualizados. 
 
 ## ✨ Motivação.
-A melhoria gerada na implementação de planilhas automatizadas para os colaborardes (que já usam o excel de forma cotidiana) da empresa é perceptível e significante. Quase 0 adaptação (o software não é novo) e agilidade nas análises.  
+A melhoria gerada na implementação de planilhas automatizadas é perceptível e significante (principlamente quando já existe rotina de trabalho no excel). Quase 0 adaptação (o software não é novo) e agilidade nas análises.  
 
 Dados de vendas, compras e estoque em tempo real ao apertar um simples botão. Antes de implementar soluções complexas e que demandem tempo e treinamento em um novo software é válido testar o trabalho via excel (principalmente quando já é padrão na empresa e o caixa já está apertado).
 
@@ -62,7 +62,7 @@ No geral, essas conexões fazem o excel uma plataforma mais voltada para anális
 
 Para aqueles que possuem conhecimento na area de engenharia de dados (principalmente em Sql) essa ferramenta pode dar bastante agilidade na construção e compartilhamento de análises. 
 
-Além das credencias necessárias para conexão, o campo mais importante na configuração é instrução sql que é passada pra a conexão. Usando consultas bem elaboradas e eficientes, a captura e atualização de dados fica extremamente eficiente e simples. 
+Além das credencias necessárias para conexão, o campo mais importante na configuração é a instrução sql que é passada pra a conexão. Usando consultas bem elaboradas e eficientes, a captura e atualização de dados fica extremamente eficiente e simples. 
 
 ![resumo-1](assets/img/resumo-1.png)
 
